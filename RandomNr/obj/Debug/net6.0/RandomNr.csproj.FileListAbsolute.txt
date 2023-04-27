@@ -1,0 +1,15 @@
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\bin\Debug\net6.0\RandomNr.exe
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\bin\Debug\net6.0\RandomNr.deps.json
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\bin\Debug\net6.0\RandomNr.runtimeconfig.json
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\bin\Debug\net6.0\RandomNr.dll
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\bin\Debug\net6.0\RandomNr.pdb
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.csproj.AssemblyReference.cache
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.AssemblyInfoInputs.cache
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.AssemblyInfo.cs
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.csproj.CoreCompileInputs.cache
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.dll
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\refint\RandomNr.dll
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.pdb
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\RandomNr.genruntimeconfig.cache
+C:\Users\Kärt Kristina\source\repos\Week4Loops\RandomNr\obj\Debug\net6.0\ref\RandomNr.dll
